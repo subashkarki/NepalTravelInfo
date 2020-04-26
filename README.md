@@ -1,2 +1,1 @@
-# NepalTravelInfo
-Web Programing Project assessment 
+# Practise1
